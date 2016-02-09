@@ -1,2 +1,0 @@
-[General]
-cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x3\0\0\0Z_jsuid=1796037401; expires=Mon, 04-Feb-2036 16:53:29 GMT; domain=.hardscrabble.net; path=/\0\0\0O_gat=1; expires=Tue, 09-Feb-2016 17:12:34 GMT; domain=.hardscrabble.net; path=/\0\0\0g_ga=GA1.2.942825230.1455036703; expires=Thu, 08-Feb-2018 17:05:53 GMT; domain=.hardscrabble.net; path=/)"
